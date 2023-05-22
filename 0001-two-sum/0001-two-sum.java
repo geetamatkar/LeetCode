@@ -22,6 +22,7 @@ class Solution {
 
         int [] arr = {a,b};
         return arr;
+        
     }
 }
         
